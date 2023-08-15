@@ -2,3 +2,4 @@
         uses: actions/upload-pages-artifact@v1
         with: 
           path: './htmlcov/'
+steps.html_preview.outputs.url
